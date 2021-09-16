@@ -13,7 +13,7 @@ public class MyCalcTest {
 	
 	@Test
 	public void test2() {
-		assertEquals(10, new MyCalculator().sum(10, -5));
+		assertEquals(15, new MyCalculator().sum(20, -5));
 	}
 	
 	@Test
